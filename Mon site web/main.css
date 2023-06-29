@@ -1,0 +1,35 @@
+h1
+{
+    text-align : center;
+    border: solid white ;  
+}
+
+body
+{
+    background-color: black;
+    color: lightgray;
+}
+
+a:hover
+{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+nav
+{
+    margin-left: 5cm;
+    margin-top: 5cm;
+}
+.liens_de_renvois
+{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+footer
+{
+    margin-bottom: 1cm;
+    /* margin-bottom: 10px; */
+}
